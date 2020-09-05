@@ -8,9 +8,11 @@
 #### 🌐 Want to know more about me and my projects ? Check <a href="https://www.patriciamilou.com">this</a> out!
 -----
 
-<img src="https://raw.githubusercontent.com/patriciam97/patriciam97/master/assets/banner2.png" alt="banner" width="100%">
+
 
 <!--
+<img src="https://raw.githubusercontent.com/patriciam97/patriciam97/master/assets/banner2.png" alt="banner" width="100%">
+
 **patriciam97/patriciam97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
