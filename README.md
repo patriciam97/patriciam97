@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/patriciam97/patriciam97/master/assets/banner1.png" alt="banner" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/patriciam97/patriciam97/master/assets/banner1.png" alt="banner" width="100%"> -->
 
 ----
 #### ⚙️ More recent technologies I have been working with: React, React Native, Redux, Android Studio, Django, Nest.js
